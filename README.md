@@ -23,4 +23,7 @@ Key features of CSTE, NSTU app includes:
 
 ![cstegitpic_094912](https://user-images.githubusercontent.com/53171337/130823265-af46e308-6f72-4401-836b-45207c89e914.png)
 
+**Screenshots**
+
+
 Playstore Link: https://play.google.com/store/apps/details?id=com.cste.nstuhelpo
