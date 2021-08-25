@@ -34,6 +34,8 @@ Student Portal Android app for the Students of CSTE, NSTU.
 ![1629823622839](https://user-images.githubusercontent.com/53171337/130829503-2cd76c0c-3ea0-44b5-9dd0-6a5cb094624c.png)
 ![1629823679575](https://user-images.githubusercontent.com/53171337/130829553-a3f6f6b1-3574-499d-b600-11fa8c97d5b0.png)
 ![1629907658750](https://user-images.githubusercontent.com/53171337/130829633-6a777e7c-c336-45e8-b01d-c0f7a505114b.png)
+![1629910763242](https://user-images.githubusercontent.com/53171337/130833564-00a9931d-11e3-42d0-ba90-0ad03b7e9fc5.png)
+![Uploading 1629910694971.png…]()
 
 
 
