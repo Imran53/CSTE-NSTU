@@ -1,7 +1,7 @@
 # CSTE-NSTU
 Student Portal Android app for the Students of CSTE, NSTU.
 
-Key features of CSTE, NSTU app includes: 
+**Key features of CSTE, NSTU app includes:** 
 
 * Profile
 * Teachers 
