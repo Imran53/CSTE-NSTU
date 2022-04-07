@@ -39,7 +39,7 @@ An Official Student Portal Android app for the Students of CSTE, NSTU.
 
 
 
-
+**Promo Video Link:** https://youtu.be/ErJbyHxDrfk
 
 **Playstore Link:** https://play.google.com/store/apps/details?id=com.cste.nstuhelpo
 
