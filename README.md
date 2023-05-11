@@ -5,8 +5,6 @@ a full functional interactive system which will help the students and teachers
 in departmental activities. It will increase the student’s productivity and ease
 the task of teachers. 
 
-[![Football Manager 2021](https://user-images.githubusercontent.com/53171337/130823265-af46e308-6f72-4401-836b-45207c89e914.png)](https://youtu.be/ajhu4GS5TuA "Football Manager 2021")
-
 
 **Key features of CSTE, NSTU app includes:** 
 
