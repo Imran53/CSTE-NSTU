@@ -1,5 +1,11 @@
 # CSTE-NSTU
-An Official Student Portal Android app for the Students of CSTE, NSTU.
+An Official Student Portal Android app for the Dept. of CSTE, Noakhali Sci-
+ence & Technology University. The actual purpose of this project is to create
+a full functional interactive system which will help the students and teachers
+in departmental activities. It will increase the student’s productivity and ease
+the task of teachers. 
+
+https://youtu.be/ajhu4GS5TuA
 
 **Key features of CSTE, NSTU app includes:** 
 
